@@ -88,7 +88,7 @@ p { font-size:14px; }
 <p><b>Timestamp:</b> $(date)</p>
 
 <hr>
-<p class="footer">Designed & Developed by <b>sak_shetty</b></p>
+<p class="footer">Designed & Developed by <b>whitehorse</b></p>
 </div>
 </body>
 </html>
