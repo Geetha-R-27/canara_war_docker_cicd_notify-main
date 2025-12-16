@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  canara_app:
+    image: geethar27/canara_whitehorse
+    container_name: canara_app_whitehorse
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8085:8080"
+    restart: always
