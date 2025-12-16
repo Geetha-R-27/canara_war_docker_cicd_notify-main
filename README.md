@@ -37,13 +37,14 @@ GMAIL_APP_PASS="xxxx" \
 - **ID**: GMAIL_GMAILAUTH
 ---
 ## Project Photos
-<img width="1883" height="910" alt="image" src="https://github.com/user-attachments/assets/f75261ce-188c-46b2-aacd-750dded38a83" />
+<img width="1741" height="933" alt="Screenshot 2025-12-16 181544" src="https://github.com/user-attachments/assets/5ff7935e-0a08-4336-b5d1-a3d8cf98c350" />
 
-<img width="1887" height="923" alt="image" src="https://github.com/user-attachments/assets/0dbad5da-201d-4359-bb84-ff91f673c4ef" />
+<img width="1907" height="890" alt="Screenshot 2025-12-16 180702" src="https://github.com/user-attachments/assets/921f0109-ffbb-4e14-aa2b-5f8586e6354e" />
 
-<img width="1857" height="303" alt="image" src="https://github.com/user-attachments/assets/9d05a48d-8ee8-450e-950a-694e7780c2a5" />
+<img width="1559" height="847" alt="Screenshot 2025-12-16 181112" src="https://github.com/user-attachments/assets/e5f130e6-67a2-4a40-bd94-d328132d9d79" />
 
-<img width="1895" height="793" alt="image" src="https://github.com/user-attachments/assets/7f11e61f-eac4-4360-a8db-a3747a980edb" />
+<img width="730" height="390" alt="Screenshot 2025-12-16 180759" src="https://github.com/user-attachments/assets/eea7ae4e-ed95-450f-b8a8-e8369da76eb7" />
+
 
 ---
 ## GitHub Badges Block
@@ -56,8 +57,8 @@ GMAIL_APP_PASS="xxxx" \
   <img src="https://img.shields.io/badge/Author-sak__shetty-purple?style=for-the-badge&logo=github">
 </p>
 <p align="center">
-  💡 Project crafted with passion by <b>sak_shetty</b> 🚀
+  💡 Project crafted with passion by <b>whitehorse</b> 🚀
 </p>
 ---
 
-**Script Done By sak_shetty**
+**Script Done By whitehorse**
